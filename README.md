@@ -4,11 +4,12 @@ LEPortableHelper, using Locale Emulator without installing.  (or...portablized?)
 這是一個讓你免安裝就可以用Loacle Emulator的小工具。(或是叫做…攜帶版?)
 
 # What's this
-This is a helper script for [Locale Emulator](https://github.com/pokepearl/Locale-Emulator).  
+This is a helper script for [Locale Emulator](https://github.com/xupefei/Locale-Emulator).  
 這是一個Locale Emulator的外部工具。  
-The script reads the setting file of Locale Emulator (LE) and generate a batch file for running another program, without install Locale Emulator or/and click it in context menu.  
 
-這個腳本可以讀取Locale Emulator (LE)的設定檔，然後產生一個.bat檔案，讓你不必安裝LE也可以換區執行其他程式。  
+The script reads the setting file of Locale Emulator (LE) and generate a batch file (or just run it) for running another program, without install Locale Emulator or/and click it in context menu.  
+這個腳本可以讀取Locale Emulator (LE)的設定檔，然後產生一個.bat檔案(或直接執行)，讓你不必安裝LE就可以換區執行其他程式。  
+
 This make using LE more like using MS Applocale.  
 這可以讓LE用起來更像MS Applocale.
 
